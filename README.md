@@ -38,11 +38,8 @@
   <a href="https://discordapp.com/users/your-discord-id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
   </a>
-  <a href="https://www.twitch.tv/your-twitch-channel" target="_blank">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch logo" />
-  </a>
-  <a href="https://dev.to/your-devto-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo" />
   </a>
 </div>
 
