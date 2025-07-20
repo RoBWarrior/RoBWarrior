@@ -5,25 +5,23 @@
 ### My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="JAVA logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="CPP logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
 </div>
 
 ---
