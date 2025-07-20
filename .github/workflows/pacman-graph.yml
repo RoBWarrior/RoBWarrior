@@ -1,0 +1,30 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        id: pacman-graph
+        with:
+          github_user_name: RoBWarrior # Make sure this is YOUR username!
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          # This token is automatically available for actions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          # Ensure your Workflow Permissions in repo settings allow 'Read and write'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
